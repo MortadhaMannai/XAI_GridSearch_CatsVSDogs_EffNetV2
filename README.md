@@ -1,3 +1,24 @@
+**Project Name:**
+
+# ExplainableAI_GridSearch_CatsVSDogs
+
+**Description:**
+
+A project focusing on binary classification using Explainable Artificial Intelligence (XAI) methods, specifically SHAP (SHapley Additive exPlanations), and Grid Search for hyperparameter tuning. The project utilizes EfficientNetV2-B0 architecture on the Cat VS Dog dataset.
+
+**Key Features:**
+
+- Binary classification using EfficientNetV2-B0
+- Explainable Artificial Intelligence (XAI) using SHAP
+- Grid Search for hyperparameter tuning
+- Handling imbalanced dataset using weight adjustment
+- Model evaluation metrics: accuracy, precision, recall, F1 score
+- Inference time analysis
+
+**Purpose:**
+
+To create a transparent and efficient binary classification model while utilizing XAI methods like SHAP and hyperparameter tuning with Grid Search.
+
 # SHAP_GridSearch_CatsVSDogs
 Binary classification, SHAP (Explainable Artificial Intelligence), and Grid Search (for tuning hyperparameters) using EfficientNetV2-B0 on Cat VS Dog dataset.
 
