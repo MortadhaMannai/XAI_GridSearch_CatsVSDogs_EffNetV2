@@ -2,6 +2,10 @@
 
 # ExplainableAI_GridSearch_CatsVSDogs
 
+**Author Name:**
+
+# Manai Mohamed Mortadha
+
 **Description:**
 
 A project focusing on binary classification using Explainable Artificial Intelligence (XAI) methods, specifically SHAP (SHapley Additive exPlanations), and Grid Search for hyperparameter tuning. The project utilizes EfficientNetV2-B0 architecture on the Cat VS Dog dataset.
